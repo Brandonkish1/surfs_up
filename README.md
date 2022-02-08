@@ -12,3 +12,8 @@ This analysis is will help W. Avy make decisions on if a surf and ice cream shop
 - All days of either month are warm enough for ice cream. Customers might just need to wear a jacket on the colder days.
 
 ## Summary
+The results show based on June and December data that Oahu is a good location for a surf and ice cream shop. Some additional information that might be useful might be write a query that shows the average temperature by month. Then make a comparison of the month with the lowest average temperature to the month with the highest average temperature. The assumption being that if the temperature is good for those months all the other months will be acceptable as well.
+
+Also some visualizations of the June and December data might make decision making easier.
+![june_visualization.png](https://github.com/Brandonkish1/surfs_up/blob/main/Images/june_visualization.png)
+![december_visualization.png](https://github.com/Brandonkish1/surfs_up/blob/main/Images/december_visualization.png)
